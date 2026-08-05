@@ -54,5 +54,5 @@ This is a two-service Docker web application consisting of a Python Flask web se
 
 # Delete all application resources
 ./remove-app.sh
-# Removed app.
+# Removing app...
 ```
